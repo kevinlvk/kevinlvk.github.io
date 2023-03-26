@@ -3407,7 +3407,7 @@ function createWinbox() {
 <h3>1. 二次元</h3>
 <details class="folding-tag" cyan><summary> 查看二次元背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://gitee.com/tang-yu-xiao-bao/image-bad/raw/master/Blog/mb8.webp)" class="imgbox" onclick="changeBg('url(https://gitee.com/tang-yu-xiao-bao/image-bad/raw/master/Blog/mb8.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://gitee.com/tang-yu-xiao-bao/image-bad/raw/master/Blog/home_bg.webp)" class="imgbox" onclick="changeBg('url(https://gitee.com/tang-yu-xiao-bao/image-bad/raw/master/Blog/home_bg.webp)')"></a></div>
               </div>
             </details>
 
